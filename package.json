@@ -1,0 +1,6 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Pokedex estático em JavaScript que consome a API pública do Pokémon.",
+  "private": true
+}
