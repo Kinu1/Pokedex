@@ -4,7 +4,7 @@ Pokedex estático em JavaScript que consome a API pública do Pokémon.
 
 ## Como usar
 
-1. Abra `index.html` no um navegador moderno.
+1. Abra `index.html` no seu navegador.
 2. Clique em `Load More` para carregar mais Pokémon.
 3. O app consome `https://pokeapi.co/api/v2/pokemon`.
 
