@@ -13,7 +13,6 @@ Pokedex estático em JavaScript que consome a API pública do Pokémon.
 - HTML5
 - CSS3
 - JavaScript moderno (ES6+)
-- Não há frameworks front-end como React ou Vue neste projeto
 - Consumo da API pública `PokeAPI` para dados de Pokémon
 
 ## Técnicas usadas
@@ -35,7 +34,4 @@ Pokedex estático em JavaScript que consome a API pública do Pokémon.
 - `assets/js/poke-api.js` — chamadas à API do PokeAPI
 - `assets/js/main.js` — lógica de paginação e renderização
 
-## Observações
 
-- O projeto é um site estático. Não há dependências Node obrigatórias.
-- `node_modules/` está ignorado pelo Git no arquivo `.gitignore`.
